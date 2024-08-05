@@ -4,11 +4,11 @@ This is the code for a landing page named Sylvan Couture. It utilizes HTML, CSS,
 
 **Features:**
 
-* Animated text reveals with a marquee effect.
-* Color scheme inspired by nature with a rose white background and resolution blue accents.
-* Elegant typography using custom fonts (Vega and Geist).
-* Minimalist layout with a focus on the brand name.
-* Simple navigation bar and footer.
+-    Animated text reveals with a marquee effect.
+-    Color scheme inspired by nature with a rose white background and resolution blue accents.
+-    Elegant typography using custom fonts (Vega and Geist).
+-    Minimalist layout with a focus on the brand name.
+-    Simple navigation bar and footer.
 
 **Getting Started:**
 
@@ -19,9 +19,9 @@ This is the code for a landing page named Sylvan Couture. It utilizes HTML, CSS,
 
 **Technical Breakdown:**
 
-* The HTML file (`index.html`) structures the layout of the page and includes references to the CSS (`style.css`) and JavaScript (`script.js`) files.
-* The CSS file (`style.css`) defines styles for various elements like text, colors, positioning, and animations.
-* The JavaScript file (`script.js`) leverages GSAP library to create the animated text reveals and clip animations.
+-    The HTML file (`index.html`) structures the layout of the page and includes references to the CSS (`style.css`) and JavaScript (`script.js`) files.
+-    The CSS file (`style.css`) defines styles for various elements like text, colors, positioning, and animations.
+-    The JavaScript file (`script.js`) leverages GSAP library to create the animated text reveals and clip animations.
 
 **Customization:**
 
@@ -29,5 +29,5 @@ Feel free to modify the CSS styles and GSAP animations to tailor the look and fe
 
 **Additional Notes:**
 
-* This is a basic landing page template and can be further extended to include additional functionalities.
-* Consider adding responsiveness to ensure the layout adapts seamlessly across different screen sizes.
+-    This is a basic landing page template and can be further extended to include additional functionalities.
+-    Consider adding responsiveness to ensure the layout adapts seamlessly across different screen sizes.
